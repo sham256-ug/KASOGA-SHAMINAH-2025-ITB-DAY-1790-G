@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Grading System", "Grading System\Grading System.vbproj", "{C794A97D-4463-405E-A3F6-47FDD1F2BB93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C794A97D-4463-405E-A3F6-47FDD1F2BB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C794A97D-4463-405E-A3F6-47FDD1F2BB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C794A97D-4463-405E-A3F6-47FDD1F2BB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C794A97D-4463-405E-A3F6-47FDD1F2BB93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

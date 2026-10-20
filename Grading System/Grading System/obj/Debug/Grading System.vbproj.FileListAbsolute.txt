@@ -1,0 +1,12 @@
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\bin\Debug\Grading System.exe.config
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\bin\Debug\Grading System.exe
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\bin\Debug\Grading System.pdb
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\bin\Debug\Grading System.xml
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\obj\Debug\Grading_System.Form1.resources
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\obj\Debug\Grading_System.Resources.resources
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\obj\Debug\Grading System.vbproj.GenerateResource.Cache
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\obj\Debug\Grading System.exe
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\obj\Debug\Grading System.xml
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\obj\Debug\Grading System.pdb
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\obj\Debug\Grading System.vbproj.AssemblyReference.cache
+C:\Users\SHAD\OneDrive\Desktop\SSEBAGEREKASHADRACK2717\Grading System\Grading System\obj\Debug\Grading System.vbproj.CoreCompileInputs.cache
