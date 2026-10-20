@@ -1,0 +1,16 @@
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\bin\Debug\net10.0-windows\Umeme Forecast.exe
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\bin\Debug\net10.0-windows\Umeme Forecast.deps.json
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\bin\Debug\net10.0-windows\Umeme Forecast.runtimeconfig.json
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\bin\Debug\net10.0-windows\Umeme Forecast.dll
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\bin\Debug\net10.0-windows\Umeme Forecast.pdb
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\Umeme_Forecast.Form1.resources
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\Umeme Forecast.vbproj.GenerateResource.cache
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\Umeme Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\Umeme Forecast.AssemblyInfoInputs.cache
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\Umeme Forecast.AssemblyInfo.vb
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\Umeme Forecast.vbproj.CoreCompileInputs.cache
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\Umeme Forecast.dll
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\refint\Umeme Forecast.dll
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\Umeme Forecast.pdb
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\Umeme Forecast.genruntimeconfig.cache
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\Umeme Forecast\Umeme Forecast\obj\Debug\net10.0-windows\ref\Umeme Forecast.dll

@@ -1,0 +1,12 @@
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\bin\Debug\KABBYA FOREX BUREAU.exe.config
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\bin\Debug\KABBYA FOREX BUREAU.exe
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\bin\Debug\KABBYA FOREX BUREAU.pdb
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\bin\Debug\KABBYA FOREX BUREAU.xml
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\obj\Debug\KABBYA FOREX BUREAU.vbproj.AssemblyReference.cache
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\obj\Debug\KABBYA_FOREX_BUREAU.Form1.resources
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\obj\Debug\KABBYA_FOREX_BUREAU.Resources.resources
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\obj\Debug\KABBYA FOREX BUREAU.vbproj.GenerateResource.cache
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\obj\Debug\KABBYA FOREX BUREAU.vbproj.CoreCompileInputs.cache
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\obj\Debug\KABBYA FOREX BUREAU.exe
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\obj\Debug\KABBYA FOREX BUREAU.xml
+C:\Users\ankwa\OneDrive\Desktop\@dafearless\KABBYA FOREX BUREAU\obj\Debug\KABBYA FOREX BUREAU.pdb
